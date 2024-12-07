@@ -1,0 +1,123 @@
+.header{
+    background-image: url(images/bg-header-desktop.png);
+    text-align: center;
+    padding: 30px;
+   
+}
+ h2 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Bai Jamjuree', sans-serif;
+    
+}
+p , h2,h4,h3{
+    color: #555;
+    
+}
+p{
+    margin-bottom: 35px;
+   
+}
+button{
+    border-radius: 20px;
+    padding: 10px 18px;
+    color: white;
+    margin: 0px 5px 20px 5px;
+    border: none;
+    font-size: large;
+}
+.b1{
+    background-color: hsl(171deg 69% 35%);
+   
+}
+.b2{
+    background-color: hsl(233, 100%, 69%);
+}
+
+.item .float{
+    float: right;
+   margin-top: 40px;
+   width: 40%;
+}
+.item .float p{
+    padding-bottom: 20px;
+}
+
+h3{
+    margin-bottom: 15px;
+    font-size: larger;
+}
+.item h2{
+    text-align: center;
+    
+}
+.clear{
+    clear: both;
+}
+.tt{
+    margin-top: 80px;
+}
+.tt img{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.mid ,.tt {
+    text-align: center;
+}
+.sec1{
+  display: flex;
+  justify-content: center;
+}
+.grop{
+    float: left;
+    width: 25%;
+   
+}
+.logo{
+    padding-bottom: 30px;
+}
+ .sec2 {
+   margin-top: 50px;
+   margin-bottom: 80px;
+    display: flex;
+  justify-content: center;
+}
+.pp{
+    padding: 40px;
+}
+.end{
+    text-align: center;
+}
+.nn{
+    float: right;
+   width: 50%;
+   padding-top: 40px;
+    
+}
+.nn h4{
+    float: left;
+    padding-left: 40px;
+    
+}
+.footer{
+    
+    height: 200px;
+  display: flex;
+  justify-content: center;
+    background-color: #f2f2f2;
+    margin-top: 40px;
+}
+
+.footer img{
+    padding-top: 40px;
+    padding-right: 150px;
+   
+}
+.nnn img{
+ padding-right: 0;
+ padding-left: 15px;
+}
